@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "298698018509",
+    "project_id": "kalkiakhada",
+    "storage_bucket": "kalkiakhada.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298698018509:android:99b72404f9a856a2c6a384",
+        "android_client_info": {
+          "package_name": "com.zomatoclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298698018509-3h6ti1276671mk9l09e01bmkfrmduoec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcUZq1sPNePDLlv1T5sRspYljEbOfHoTo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298698018509-3h6ti1276671mk9l09e01bmkfrmduoec.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
